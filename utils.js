@@ -18,7 +18,6 @@ function getIntersection(A, B, C, D) {
             }
         }
     }
-
     return null;
 }
 
@@ -37,6 +36,5 @@ function polyIntersect(poly1, poly2) {
             }
         }
     }
-
     return false;// Wether there is no touch.
 }
